@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Full stack web developer from India, Kolkata</h3>
 
-<p align="left"> <img src=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
+              <p align="left"> <img src=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
 
 <p align="left"> <a href="https://twitter.com/@kumarvi99699502" target="blank"><img src="https://img.shields.io/twitter/follow/@kumarvi99699502?logo=twitter&style=for-the-badge" alt="@kumarvi99699502" /></a> </p>
 
