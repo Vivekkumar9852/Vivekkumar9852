@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
 
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 
@@ -43,8 +36,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumar9852&" alt="vivekkumar9852" /></p>
 
-
-<body>
-
-</body>
-</html>
